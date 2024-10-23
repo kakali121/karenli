@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests include developing robust **navigation** and **mapping** methods in **autonomous** robots, especially in the context of **multi-agent** systems. I am also interested in exploring the applications of robotics in various fields such as environmental monitoring, search and rescue.
+        My research interests include developing robust **navigation** and **mapping** methods in **autonomous** robots, especially in the context of **multi-agent** systems. I am also interested in exploring the applications of robotics in various fields such as environmental monitoring, search and rescue, or other complex real-world tasks.
 
         Please don't hesitate to reach out to collaborate :)
     design:

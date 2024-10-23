@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karen Li
+title: Karen Li 
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -41,9 +41,9 @@ profiles:
     url: https://www.instagram.com/kkl._.121/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Robots
+  - Multi-Agent Systems
+  - Mapping and Localization
 
 education:
   - area: PhD Eectrical Engineering
