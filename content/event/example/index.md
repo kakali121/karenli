@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: GHTC 2023 Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: IEEE Global Humanitarian Technology Conference (GHTC) 2023
+event_url: https://ieeeghtc.org/event/ghtc-2023/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+location: Villanova University
+address: 
+  street: 800 Lancaster Ave
+  city: Philadelphia
+  region: PA
+  postcode: '19085'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A Novel Low-Cost, Recyclable, Easy-to-Build Robot Blimp For Transporting Supplies in Hard-to-Reach Locations
+abstract: 'Rural communities in remote areas often encounter significant challenges when it comes to accessing emergency and essential supplies due to a lack of adequate transportation infrastructure. The situation is further exacerbated by poorly maintained or damaged roads. Limited budgets and technological constraints pose additional obstacles. The transportation of crucial resources, such as medical supplies. In light of these obstacles, our objective is to improve accessibility and alleviate the suffering of vulnerable populations by automating transportation tasks using low-cost robotic systems. We propose a low-cost, easy-to-build blimp robot (UAVs), that can significantly enhance the efficiency and effectiveness of local emergency responses'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-10-13T13:00:00Z'
+date_end: '2023-10-13T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-05-13T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: Khanjan Mehta'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
